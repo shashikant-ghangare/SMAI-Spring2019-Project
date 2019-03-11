@@ -1,8 +1,10 @@
-# SMAI Spring2019 Project 
-  Team No. 44
-  Team Name - Random_team_1
+# SMAI Spring2019 Project  
+  Team No. 44  
+  Team Name - Random_team_1  
   
-  Team Members:-
+ 
+  Team Members:-  
+  
     1. Karnati Venkata Kartheek
     2. Shashikant Ghangare
     3. Muhammed Yaseen Harris 
