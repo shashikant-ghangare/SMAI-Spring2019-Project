@@ -9,4 +9,4 @@
     2. Shashikant Ghangare
     3. Muhammed Yaseen Harris 
  
- # Problem Statement: Implement SVM with several (at least one) kernel(s) from scratch.
+ ## Problem Statement: Implement SVM with several (at least one) kernel(s) from scratch.
