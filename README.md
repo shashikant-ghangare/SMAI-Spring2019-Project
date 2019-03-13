@@ -28,10 +28,10 @@ https://github.com/shashikant-ghangare/SMAI-Spring2019-Project
  
 - 
 
-## Task allocationt to each member
+## Task allocation to each member
 
 - We have not decided this yet.
 
-## Project Milestoenes with timeline(expected)
+## Project Milestones with timeline(expected)
 
 -
