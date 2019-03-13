@@ -23,3 +23,15 @@ https://github.com/shashikant-ghangare/SMAI-Spring2019-Project
  ## Problem Definition
  
  - 
+ 
+ ## Results of the project   
+ 
+- 
+
+## Task allocationt to each member
+
+- We have not decided this yet.
+
+## Project Milestoenes with timeline(expected)
+
+-
