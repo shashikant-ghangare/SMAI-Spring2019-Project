@@ -14,4 +14,12 @@ https://github.com/shashikant-ghangare/SMAI-Spring2019-Project
     2. 2018900061 - Shashikant Ghangare 
     3. 20161047   - Muhammed Yaseen Harris 
  
+ ## Main goals of the project
  
+ - Implementing binary SVM from scratch.   
+ - Implementing kernel trick(s) to make SVM work for non-linear cases. 
+ - Implenting extnsions to multiclass problems.
+ 
+ ## Problem Definition
+ 
+ - 
