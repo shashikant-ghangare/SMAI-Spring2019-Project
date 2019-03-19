@@ -19,11 +19,15 @@ https://github.com/shashikant-ghangare/SMAI-Spring2019-Project
 
  - Implementing kernel trick(s) to make SVM work for non-linear cases. 
  
-## Problem Definition/Results of the project
+## Problem Definition
+
+ - Support vectors in their raw form work only on linearly seprable data. But, what if the data isn't linearly seprable. To solve this problem, enter **Kernels**(kernel tricks). The problem definition is to implemeent SVM and kernel tricks to make SVM work for non-linear cases.
+ 
+## Results of the project
  
  - Implementing binary SVM from scratch.   
- - Implementing kernel trick(s) to make SVM work for non-linear cases. 
- - Implenting extnsions to multiclass problems.
+ - Implementing one or more kernel tricks to make SVM work for non-linear cases. 
+ - Implementing extensions to multiclass problems.
  
 ## Task allocation to each member
 
@@ -32,4 +36,4 @@ https://github.com/shashikant-ghangare/SMAI-Spring2019-Project
 ## Project Milestones with timeline(expected)
 - Implementing binary SVM from scratch.(by 30th March)
 - Implementing kernel trick(s) to make SVM work for non-linear cases.(by 10th April)
-- Implenting extnsions to multiclass problems.(by 30th April)
+- Implementing extensions to multiclass problems.(by 30th April)
