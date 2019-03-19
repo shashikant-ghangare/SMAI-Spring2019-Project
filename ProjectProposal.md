@@ -22,7 +22,7 @@ https://github.com/shashikant-ghangare/SMAI-Spring2019-Project
 ## Problem Definition
 
  - Support vectors in their raw form work only on linearly seprable data. But, what if the data isn't linearly seprable. To solve this problem, enter **Kernels**(kernel tricks). The problem definition is to implemeent SVM and kernel tricks to make SVM work for non-linear cases.
- 
+
 ## Results of the project
  
  - Implementing binary SVM from scratch.   
