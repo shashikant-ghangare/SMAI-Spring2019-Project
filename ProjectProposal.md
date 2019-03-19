@@ -34,6 +34,6 @@ https://github.com/shashikant-ghangare/SMAI-Spring2019-Project
 - We have not decided this yet.
 
 ## Project Milestones with timeline(expected)
-- Implementing binary SVM from scratch.(by 30th March)
+- Implementing binary SVM from scratch.(by 5th April)
 - Implementing kernel trick(s) to make SVM work for non-linear cases.(by 10th April)
 - Implementing extensions to multiclass problems.(by 30th April)
