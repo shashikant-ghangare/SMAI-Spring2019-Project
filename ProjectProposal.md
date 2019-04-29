@@ -13,7 +13,7 @@ https://github.com/shashikant-ghangare/SMAI-Spring2019-Project
   
     1. 2018801010 - Karnati Venkata Kartheek 
     2. 2018900061 - Shashikant Ghangare 
-    3. 20161047   - Muhammed Yaseen Harris 
+    
     
 ## Main goals of the project
 
